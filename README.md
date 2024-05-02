@@ -4,7 +4,7 @@ Glenn Jocher가 만든 사전 학습된 YOLOv5를 **Roboflow에서 가져온 데
 2. 산불 감지 모델 (Wildfire)
 3. 공사장 헬멧 감지 모델 (HardHatWorkers)
 4. 주차장 빈 자리 감지 모델 (PKlot)
-5. 손동작 인식 모델 (Auto_cam)
+5. 개인 프로젝트_손동작 인식 모델 (Auto_cam)
 ***
 
 ### 사용 언어 및 기술
