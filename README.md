@@ -1,10 +1,10 @@
 # YOLOv5를 Fine-tuning하여 Custom Model 만들기
 Glenn Jocher가 만든 사전 학습된 YOLOv5를 **Roboflow에서 가져온 데이터셋**을 통해 **Fine-tuning**하여 몇 가지 **Custom model**을 제작했다.
-1. 포트홀 감지 모델
-2. 산불 감지 모델
-3. 공사장 헬멧 감지 모델
-4. 주차장 빈 자리 감지 모델
-5. 손동작 인식 모델 (toy_project)
+1. 포트홀 감지 모델 (Pothole)
+2. 산불 감지 모델 (Wildfire)
+3. 공사장 헬멧 감지 모델 (HardHatWorkers)
+4. 주차장 빈 자리 감지 모델 (PKlot)
+5. 손동작 인식 모델 (Auto_cam)
 ***
 
 ### 사용 언어 및 기술
